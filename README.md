@@ -1,3 +1,4 @@
-# Samuel Bakehouse demo website
+# STUDIOinks, Dallas demo website
 
-One page demo site built by Habtech for Samuel Bakehouse, Brisbane. Single index.html, no build step.
+Demo one page website built by Habtech for STUDIOinks, Dallas.
+Static site, open index.html. Demo preview only, not the live website.
